@@ -18,3 +18,12 @@ Instead of manually typing `struct.pack("<I", addr)` or `struct.pack("<Q", addr)
 
 ---
 
+## 📷 Example
+
+Right-click on any instruction and choose **Pack 32/64 → View In Log **
+
+![Disassembly and Log example showing binjapack output](img/1.png)
+
+**Pack 32/64 → Show Report**
+
+![Disassembly and Report example  binjapack output](img/2.png)
